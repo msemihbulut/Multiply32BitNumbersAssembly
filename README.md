@@ -3,6 +3,7 @@
 - Bu assembly kodunda, kullanıcı belirli bellek bölgelerine 32 bitlik sayilar girer. Bellek bölgesine 32 bitlik bir sayı gireceği için,
 sayının 16 bitlik kısımlarını girmelidir. Örneğin sayı **02610842H** olsun bellek bölgesine şöyle yerleştirmelidir:
 >[0200H] -> 00261H
+
 >[0202h] -> 00842H
 
 - Yerleştirdikten sonra program çalıştırılır. Sayılar bir döngü içerisinde kaydırma ve ekleme işlemleri sonucunda çarpılır ve ilgili bellek bölgesine cevap kaydedilir.
