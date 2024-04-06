@@ -34,3 +34,12 @@ must enter the 16-bit parts of the number. For example, let the number be 026108
 
 - As a result of multiplying two 32-bit numbers, a *64-bit* number is obtained. The user can access certain parts of this number by entering input with the Simple tool.
 When *"1"* is entered from the input port, *the bottom 16 bits of the result* are reflected on the display, when *"4"* is entered, *the top 16 bits* are reflected, and when *"2"* or *"3"* is entered, *the relevant parts of the result* are reflected on the display.
+
+
+## Simple
+![resim](https://github.com/msemihbulut/Multiply32BitNumbersAssembly/assets/91975311/736c6c0e-110b-4d4b-8ae2-43a65f3dd822)
+
+## Led Display
+![resim](https://github.com/msemihbulut/Multiply32BitNumbersAssembly/assets/91975311/efd17783-fa52-42c0-bafd-7c0124d130f7)
+
+
